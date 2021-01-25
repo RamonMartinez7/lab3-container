@@ -4,9 +4,9 @@ Start
 Number of generated k-mers: 67108864
 Finish!
 
-real	1m34,834s
-user	1m34,502s
-sys	0m0,169s
+real	1m39,971s
+user	1m39,587s
+sys	0m0,011s
 
 
 Tiempo en ejecutarse el programa para 14.mers en python:
@@ -15,9 +15,9 @@ Start
 Number of generated k-mers: 268435456
 Finish!
 
-real	5m46,165s
-user	5m45,505s
-sys	0m0,164s
+real	6m52,060s
+user	6m51,446s
+sys	0m0,003s
 
 
 Tiempo en ejecutarse el programa para 13-mers en c++:
@@ -26,9 +26,9 @@ Start
 Number of generated k-mers: 67108864
 Finish!
 
-real	0m0,967s
-user	0m0,804s
-sys	0m0,126s
+real	0m0,715s
+user	0m0,712s
+sys	0m0,002s
 
 
 Tiempo en ejecutarse el programa para 14-mers en c++:
@@ -37,6 +37,6 @@ Start
 Number of generated k-mers: 268435456
 Finish!
 
-real	0m3,002s
-user	0m2,857s
-sys	0m0,112s
+real	0m2,918s
+user	0m2,914s
+sys	0m0,001s
